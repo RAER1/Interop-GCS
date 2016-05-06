@@ -1,0 +1,33 @@
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Spherey</name>
+    <Style id="default"/>
+    <Model>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <Location>
+        <longitude>-105</longitude>
+        <latitude>40</latitude>
+        <altitude>600</altitude>
+      </Location>
+      <Orientation>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <roll>0</roll>
+      </Orientation>
+      <Scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Scale>
+      <Link>
+        <href>sphere1.dae</href>
+      </Link>
+      <ResourceMap>
+        <Alias>
+          <targetHref>texture.jpg</targetHref>
+          <sourceHref>untitled/texture.jpg</sourceHref>
+        </Alias>
+      </ResourceMap>
+    </Model>
+  </Placemark>
+</kml>

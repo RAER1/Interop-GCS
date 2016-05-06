@@ -1,0 +1,22 @@
+<Folder xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <Style>
+      <PolyStyle>
+        <color>8f0000ff</color>
+      </PolyStyle>
+      <LineStyle>
+        <color>000000ff</color>
+      </LineStyle>
+    </Style>
+    <Polygon>
+      <extrude>1</extrude>
+      <tessellate>1</tessellate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-81.9995894866,29.0,10 -81.9996678877,29.0002121284,10 -81.9998731444,29.000343231,10 -82.0001268556,29.000343231,10 -82.0003321123,29.0002121284,10 -82.0004105134,29.0,10 -82.0003321123,28.9997878716,10 -82.0001268556,28.999656769,10 -81.9998731444,28.999656769,10 -81.9996678877,28.9997878716,10 -81.9995894866,29.0,10 </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Folder>
